@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="greenMovie">#3F622C</color>
+    <color name="greenLightMovie">#7DCE1C</color>
+    <color name="genero">#3254A8</color>
+    <color name="principalColor">#BC2D20</color>
+    <color name="light_surface">#FFFFFF</color>
+</resources>
