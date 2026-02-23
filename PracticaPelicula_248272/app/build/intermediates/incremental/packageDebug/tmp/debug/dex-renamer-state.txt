@@ -1,4 +1,4 @@
-#Sun Feb 22 18:12:57 MST 2026
+#Sun Feb 22 18:19:56 MST 2026
 base.0=D\:\\Escuela\\Aplicaciones moviles\\peliculaDex_248272\\PracticaPelicula_248272\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=D\:\\Escuela\\Aplicaciones moviles\\peliculaDex_248272\\PracticaPelicula_248272\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=D\:\\Escuela\\Aplicaciones moviles\\peliculaDex_248272\\PracticaPelicula_248272\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex

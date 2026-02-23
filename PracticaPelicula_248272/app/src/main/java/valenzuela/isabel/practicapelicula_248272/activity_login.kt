@@ -11,7 +11,6 @@ import androidx.core.view.WindowInsetsCompat
 
 class activity_login : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
-        AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES)
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_main2)
