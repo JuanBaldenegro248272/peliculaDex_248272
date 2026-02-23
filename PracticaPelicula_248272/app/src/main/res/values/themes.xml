@@ -7,5 +7,5 @@
 
     </style>
 
-    <style name="Theme.PracticaPelicula_253301" parent="Base.Theme.PracticaPelicula_253301" />
+    <style name="Theme.PracticaPelicula_248272" parent="Theme.Material3.DayNight.NoActionBar" />
 </resources>

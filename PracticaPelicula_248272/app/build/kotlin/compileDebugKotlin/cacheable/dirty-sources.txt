@@ -1,2 +1,0 @@
-C:\Users\LV1822\Desktop\PracticaPelicula_253301-master\app\src\main\java\valenzuela\isabel\practicapelicula_253301\MainActivity.kt
-C:\Users\LV1822\Desktop\PracticaPelicula_253301-master\app\src\main\java\valenzuela\isabel\practicapelicula_253301\activity_login.kt

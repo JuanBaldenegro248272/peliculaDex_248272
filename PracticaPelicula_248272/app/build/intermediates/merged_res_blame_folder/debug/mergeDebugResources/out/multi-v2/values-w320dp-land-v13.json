@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "valenzuela.isabel.practicapelicula_248272.app-mergeDebugResources-34:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jrasc\\.gradle\\caches\\9.1.0\\transforms\\62c437062cd0c8568fe72cc2e6a62b7d\\workspace\\transformed\\material-1.13.0\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,61",
+                        "endOffsets": "105,167"
+                    }
+                }
+            ]
+        }
+    ]
+}

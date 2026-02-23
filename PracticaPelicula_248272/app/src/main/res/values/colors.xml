@@ -7,4 +7,7 @@
     <color name="genero">#3254A8</color>
     <color name="principalColor">#BC2D20</color>
     <color name="light_surface">#FFFFFF</color>
+    <color name="noTanNegro">#121212</color>
+    <color name="colorMoraoNight">#BB86FC</color>
+    <color name="grisOscuro">#CCCCCC</color>
 </resources>

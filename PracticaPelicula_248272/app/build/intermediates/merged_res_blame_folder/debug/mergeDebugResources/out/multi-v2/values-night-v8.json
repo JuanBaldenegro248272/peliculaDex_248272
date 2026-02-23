@@ -1,0 +1,112 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\jrasc\\.gradle\\daemon\\9.1.0\\valenzuela.isabel.practicapelicula_248272.app-mergeDebugResources-34:\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "D:\\Escuela\\Aplicaciones moviles\\peliculaDex_248272\\PracticaPelicula_248272\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "461"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "409"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jrasc\\.gradle\\caches\\9.1.0\\transforms\\0098e435b1a272312944e04a1ebc7864\\workspace\\transformed\\appcompat-1.7.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12,13,14,41",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "414,484,568,652,748,850,952,3934",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "479,563,647,743,845,947,1041,4018"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jrasc\\.gradle\\caches\\9.1.0\\transforms\\62c437062cd0c8568fe72cc2e6a62b7d\\workspace\\transformed\\material-1.13.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,42,43,44,45,46,47,48,49",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1046,1121,1232,1321,1422,1529,1636,1735,1842,1945,2072,2160,2284,2386,2488,2604,2706,2820,2948,3064,3186,3322,3442,3576,3696,3808,4023,4140,4264,4394,4516,4654,4788,4904",
+                        "endColumns": "74,110,88,100,106,106,98,106,102,126,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "1116,1227,1316,1417,1524,1631,1730,1837,1940,2067,2155,2279,2381,2483,2599,2701,2815,2943,3059,3181,3317,3437,3571,3691,3803,3929,4135,4259,4389,4511,4649,4783,4899,5019"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "valenzuela.isabel.practicapelicula_248272.app-mergeDebugResources-34:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "D:\\Escuela\\Aplicaciones moviles\\peliculaDex_248272\\PracticaPelicula_248272\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "521"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "468"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jrasc\\.gradle\\caches\\9.1.0\\transforms\\0098e435b1a272312944e04a1ebc7864\\workspace\\transformed\\appcompat-1.7.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,42",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "473,543,627,711,807,909,1011,3993",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "538,622,706,802,904,1006,1100,4077"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jrasc\\.gradle\\caches\\9.1.0\\transforms\\62c437062cd0c8568fe72cc2e6a62b7d\\workspace\\transformed\\material-1.13.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,43,44,45,46,47,48,49,50",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1105,1180,1291,1380,1481,1588,1695,1794,1901,2004,2131,2219,2343,2445,2547,2663,2765,2879,3007,3123,3245,3381,3501,3635,3755,3867,4082,4199,4323,4453,4575,4713,4847,4963",
+                        "endColumns": "74,110,88,100,106,106,98,106,102,126,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "1175,1286,1375,1476,1583,1690,1789,1896,1999,2126,2214,2338,2440,2542,2658,2760,2874,3002,3118,3240,3376,3496,3630,3750,3862,3988,4194,4318,4448,4570,4708,4842,4958,5078"
+                    }
+                }
+            ]
+        }
+    ]
+}

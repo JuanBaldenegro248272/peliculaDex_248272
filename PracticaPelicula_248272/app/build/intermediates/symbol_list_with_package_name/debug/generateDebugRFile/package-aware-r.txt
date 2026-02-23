@@ -1,8 +1,13 @@
-valenzuela.isabel.practicapelicula_253301
+valenzuela.isabel.practicapelicula_248272
 color black
+color colorMoraoNight
 color genero
 color greenLightMovie
 color greenMovie
+color grisOscuro
+color light_surface
+color noTanNegro
+color principalColor
 color white
 drawable baseline_save_alt_24
 drawable estrella
@@ -50,7 +55,7 @@ string rentar
 string reviews
 string sipnosis
 style Base_Theme_PracticaPelicula_253301
-style Theme_PracticaPelicula_253301
+style Theme_PracticaPelicula_248272
 style textoCantidadReviews
 style textoGeneroPelicula
 style textoNegroNegrita

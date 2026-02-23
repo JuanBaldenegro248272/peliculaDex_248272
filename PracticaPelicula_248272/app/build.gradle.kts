@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "valenzuela.isabel.practicapelicula_253301"
+    namespace = "valenzuela.isabel.practicapelicula_248272"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "valenzuela.isabel.practicapelicula_253301"
+        applicationId = "valenzuela.isabel.practicapelicula_248272"
         minSdk = 27
         targetSdk = 36
         versionCode = 1
